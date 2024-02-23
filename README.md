@@ -2,7 +2,7 @@
 ---
 
 - Goals dari repository ini adalah kita bisa membuat simple portfolio dengan melakukan Web Scraping
-- Repository ini digunakan pada thread Pacmann yang ini (link soon)
+- Repository ini digunakan pada thread Pacmann [yang ini](https://twitter.com/pacmannai/status/1760945148538605629)
 - Website yang ingin kita scraping adalah https://myanimelist.net/
 - Data yang discrape, akan disimpan di folder `data/`
 
